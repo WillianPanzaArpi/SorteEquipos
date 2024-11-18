@@ -1,0 +1,5 @@
+com\sorteoequipos\modelo\Equipo.class
+com\sorteoequipos\SorteoEquipos.class
+com\sorteoequipos\exception\CustomException.class
+com\sorteoequipos\exception\CustomHelp.class
+com\sorteoequipos\modelo\EtapaTorneo.class
